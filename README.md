@@ -1,4 +1,4 @@
-# Smart-Tutors
+# Course-Design-and-Development-of-Intelligent-Tutors
 Certificate design and development of intelligent tutors.
 
 Provided by: Institute of Applied Sciences and Technology (ICAT)-UNAM
